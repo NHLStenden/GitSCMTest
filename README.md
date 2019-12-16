@@ -1,3 +1,2 @@
 # GitSCMTest
-Dit is een publieke repo om te testen
-
+Wat een mooie repo!!!
