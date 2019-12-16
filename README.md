@@ -1,2 +1,3 @@
 # GitSCMTest
-Public Repo to test GIT SCM
+Dit is een publieke repo om te testen
+
